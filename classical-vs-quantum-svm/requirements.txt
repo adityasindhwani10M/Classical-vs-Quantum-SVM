@@ -1,0 +1,8 @@
+scikit-learn
+qiskit>=1.0.0
+qiskit-machine-learning>=0.7.2
+qiskit-algorithms
+pandas
+matplotlib
+seaborn
+streamlit
